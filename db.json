@@ -1,0 +1,58 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Depe",
+      "boughtAt": "February",
+      "updatedAt": "March",
+      "capacity": 50,
+      "color": "blue",
+      "isSailing": "False",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas sed scelerisque sem.",
+      "imageUrl": {
+        "src": "/_next/static/media/Ship3.4d874df7.png",
+        "height": 307,
+        "width": 488,
+        "blurDataURL": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FShip3.4d874df7.png&w=8&q=70",
+        "blurWidth": 8,
+        "blurHeight": 5
+      }
+    },
+    {
+      "name": "waa",
+      "boughtAt": "Sun Dec 24 2023",
+      "updatedAt": "Sun Dec 24 2023",
+      "capacity": "80",
+      "color": "red",
+      "isSailing": "False",
+      "description": "semoga keterima!!",
+      "imageUrl": {
+        "src": "/_next/static/media/Ship1.dbc9cd97.png",
+        "height": 313,
+        "width": 458,
+        "blurDataURL": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FShip1.dbc9cd97.png&w=8&q=70",
+        "blurWidth": 8,
+        "blurHeight": 5
+      },
+      "id": 5
+    },
+    {
+      "name": "BETIS",
+      "boughtAt": "Sun Dec 24 2023",
+      "updatedAt": "Sun Dec 24 2023",
+      "capacity": "100",
+      "color": "blue",
+      "isSailing": "False",
+      "description": "kapan kapan main yu",
+      "imageUrl": {
+        "src": "/_next/static/media/Ship4.05918315.png",
+        "height": 385,
+        "width": 355,
+        "blurDataURL": "/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FShip4.05918315.png&w=7&q=70",
+        "blurWidth": 7,
+        "blurHeight": 8
+      },
+      "id": 6
+    }
+  ]
+}
